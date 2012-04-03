@@ -1,6 +1,5 @@
 [user]
-	name = Jonathan Geddes
-	email = geddes.jonathan@gmail.com
+	name = Some Awesome User
 [core]
 	editor = gvim -f
 [merge]

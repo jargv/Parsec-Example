@@ -2,3 +2,6 @@ This is a little example of using Parsec to parse git-style
 config files. It's not production quality as it fails to parse
 when there are empty lines, but it gives a pretty good feel for
 how parsec is used.
+
+to run:
+./parser.hs example.txt
